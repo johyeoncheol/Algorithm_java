@@ -1,7 +1,5 @@
 # Algorithm_Problem
 
-## 총 165문제 진행
-
 알고리즘 스터디
 - 백준
 - Expert
